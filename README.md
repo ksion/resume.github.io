@@ -9,13 +9,14 @@
 
 ## Senior Application Developer | .NET & Cloud Solutions
 
-### Education
-Bachelor of Science in Computer Science - Georgia Institute of Technology, Atlanta, GA
+### Profile 
+Senior Application Developer with 10+ years of experience building enterprise .NET applications, APIs, and cloud-based solutions. Skilled in C#, SQL, React, Azure, and Oracle C2M integrations. Adept at modernizing legacy systems, designing microservices, writing technical documentation, and providing production support. Recognized for cross-team collaboration, mentoring, and delivering reliable, scalable applications in utility and enterprise environments.
 
 ---
 
-### Profile 
-Senior Application Developer with 10+ years of experience building enterprise .NET applications, APIs, and cloud-based solutions. Skilled in C#, SQL, React, Azure, and Oracle C2M integrations. Adept at modernizing legacy systems, designing microservices, writing technical documentation, and providing production support. Recognized for cross-team collaboration, mentoring, and delivering reliable, scalable applications in utility and enterprise environments.
+### Education
+Bachelor of Science in Computer Science, Co-operative Education Designation  
+Georgia Institute of Technology, Atlanta, GA
 
 ---
 
