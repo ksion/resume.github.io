@@ -9,11 +9,6 @@
 
 ## Senior Application Developer | .NET & Cloud Solutions
 
-### Profile 
-Senior Application Developer with 10+ years of experience building enterprise .NET applications, APIs, and cloud-based solutions. Skilled in C#, SQL, React, Azure, and Oracle C2M integrations. Adept at modernizing legacy systems, designing microservices, writing technical documentation, and providing production support. Recognized for cross-team collaboration, mentoring, and delivering reliable, scalable applications in utility and enterprise environments.
-
----
-
 ### Education
 Bachelor of Science in Computer Science  
 Co-operative Education Designation  
@@ -21,23 +16,12 @@ Georgia Institute of Technology, Atlanta, GA
 
 ---
 
-### Core Skills
-Languages & Backend: C#, .NET (Framework 4.8; .NET 6-8), ASP.NET Core, RESTful APIs, Entity Framework (EF Core), LINQ  
-Frontend: React, HTML, CSS  
-Datastores: SQL Server, Oracle, Cosmos DB, Azure Blob/Table Storage, SQLite, Snowflake (Data Warehouse), Infor Birst  
-Enterprise Systems, Platforms & API Tooling: Google Ads (formerly AdWords), Microsoft Advertising (formerly Bing Ads), Meta Ads, Oracle Utilities C2M, Postman, Swagger / OpenAPI  
-Cloud & DevOps: Azure (App Service, Worker Services / VM-hosted background workers, AKS, Service Bus, Event Hubs), AWS (basic), Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD  
-Observability: Application Insights, Prometheus, Grafana, Loggly, Lens (OpenLens)  
-Architecture & Integration: Microservices, CQRS, event-driven architecture, asynchronous processing, layered (n-tier), vertical slice, API integrations (auth, roles & token expiration, caching, versioning), clean code principles, functional programming principles  
-Delivery & Ops: Agile/Scrum, production support & incident response, root cause analysis, troubleshooting, technical design documentation, roadmapping  
-Leadership: Team Lead, mentorship, Scrum Master (Certified, 2022)  
+### Profile 
+Senior Application Developer with 10+ years of experience building enterprise .NET applications, APIs, and cloud-based solutions. Skilled in C#, SQL, React, Azure, and Oracle C2M integrations. Adept at modernizing legacy systems, designing microservices, writing technical documentation, and providing production support. Recognized for cross-team collaboration, mentoring, and delivering reliable, scalable applications in utility and enterprise environments.
 
 ---
 
 ### Work Experience
-
-**_Career Note_**  
-Took a planned career break in 2025 after 13+ years in the industry to focus on targeted skill development (React, Blazor, SQL database design) and to support the setup of a private psychology practice website.
 
 **Senior Full-Stack Developer**  
 Southern Company, Atlanta, GA  
@@ -85,6 +69,19 @@ CareerBuilder, Norcross, GA
 - Implementing dynamic, multi-criteria search endpoints to enable theme- and color-based discovery across supply types.
 - Applying RESTful API design principles and structured DTO patterns to separate domain models from transport contracts.
 - Containerizing frontend, API, and database services with Docker to ensure environment consistency and reproducible local development.
+
+---
+
+### Core Skills
+Languages & Backend: C#, .NET (Framework 4.8; .NET 6-8), ASP.NET Core, RESTful APIs, Entity Framework (EF Core), LINQ  
+Frontend: React, HTML, CSS  
+Datastores: SQL Server, Oracle, Cosmos DB, Azure Blob/Table Storage, SQLite, Snowflake (Data Warehouse), Infor Birst  
+Enterprise Systems, Platforms & API Tooling: Google Ads (formerly AdWords), Microsoft Advertising (formerly Bing Ads), Meta Ads, Oracle Utilities C2M, Postman, Swagger / OpenAPI  
+Cloud & DevOps: Azure (App Service, Worker Services / VM-hosted background workers, AKS, Service Bus, Event Hubs), AWS (basic), Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD  
+Observability: Application Insights, Prometheus, Grafana, Loggly, Lens (OpenLens)  
+Architecture & Integration: Microservices, CQRS, event-driven architecture, asynchronous processing, layered (n-tier), vertical slice, API integrations (auth, roles & token expiration, caching, versioning), clean code principles, functional programming principles  
+Delivery & Ops: Agile/Scrum, production support & incident response, root cause analysis, troubleshooting, technical design documentation, roadmapping  
+Leadership: Team Lead, mentorship, Scrum Master (Certified, 2022)  
 
 ---
 
