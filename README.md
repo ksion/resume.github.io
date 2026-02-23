@@ -34,17 +34,10 @@ multiple environments.
 - Provided on-call production support, troubleshooting critical incidents and implementing root cause fixes to improve system reliability.
 - Collaborated with business analysts, QA, and non-technical stakeholders to ensure system compliance and business alignment.
 
-**PureCars Technologies LLC, Atlanta, GA**
-
-<div style="float: right; width: 50%;">
-  May 2015 – April 2024
-</div>
-
+**PureCars Technologies LLC, Atlanta, GA**  
 Lead Sr. Software Engineer, Dev Team  
-
-<div style="float: right; width: 50%;">
-  April 2021 – April 2024
-</div>
+<span style="float: right;">May 2015 – April 2024</span> 
+<span style="float: right;">April 2021 – April 2024</span>
 
 - Led a team of five engineers building distributed systems and APIs to transform raw dealership inventory and sales data into dynamic automotive ad creative across search, display, social, video, and connected TV channels for Tier II OEM advertising programs.
 - Designed and implemented scalable microservices in .NET Core on Azure Kubernetes Service, integrating with Cosmos DB, Service Bus, and Event Hub to support high-throughput, event-driven workflows.
@@ -56,8 +49,8 @@ Lead Sr. Software Engineer, Dev Team
 - Served as Scrum Master, facilitating agile ceremonies, mentoring junior developers, and producing actionable engineering documentation.
 - Owned production stability, triaging and resolving bugs across high-visibility, revenue-impacting systems.
 
-**Software Engineer, Co-op Student**  
-CareerBuilder, Norcross, GA  
+**CareerBuilder, Norcross, GA**  
+Software Engineer, Co-op Student  
 *January 2013 – May 2015, (4 semesters)*  
 - Contributed as a full-stack engineer on a high-traffic job seeker platform supporting desktop and mobile experiences using ASP.NET (.NET Framework), C#, and vanilla JavaScript.
 - Supported a modernization initiative transitioning legacy VB.NET Web Forms components to C#-based ASP.NET services.
