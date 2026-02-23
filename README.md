@@ -21,8 +21,8 @@ Senior Application Developer with 10+ years of experience building enterprise .N
 
 ### Work Experience
 
-**Senior Full-Stack Developer**  
-Southern Company, Atlanta, GA  
+**Southern Company, Atlanta, GA**  
+Senior Full-Stack Developer (Contract)  
 *June 2024 – March 2025*  
 - Modernized customer-facing systems by decomposing a legacy monolith into domain-aligned .NET Core services, implementing CQRS patterns and supporting asynchronous, event-driven workflows.
 - Designed and deployed a secure PIN verification service integrated with Oracle C2M, utilizing a server-side cache of verification attempts to enforce rate limiting and account lockout policies.
@@ -34,9 +34,18 @@ multiple environments.
 - Provided on-call production support, troubleshooting critical incidents and implementing root cause fixes to improve system reliability.
 - Collaborated with business analysts, QA, and non-technical stakeholders to ensure system compliance and business alignment.
 
-**Dev Team Lead, Sr. Software Engineer**  
-PureCars Technologies LLC, Atlanta, GA  
-*May 2015 – April 2024*  
+**PureCars Technologies LLC, Atlanta, GA**
+
+<div style="float: right; width: 50%;">
+  May 2015 – April 2024
+</div>
+
+Lead Sr. Software Engineer, Dev Team  
+
+<div style="float: right; width: 50%;">
+  April 2021 – April 2024
+</div>
+
 - Led a team of five engineers building distributed systems and APIs to transform raw dealership inventory and sales data into dynamic automotive ad creative across search, display, social, video, and connected TV channels for Tier II OEM advertising programs.
 - Designed and implemented scalable microservices in .NET Core on Azure Kubernetes Service, integrating with Cosmos DB, Service Bus, and Event Hub to support high-throughput, event-driven workflows.
 - Built distributed worker processes and APIs supporting lead generation, validation, and submission flows across customer-facing applications including Trade Report, Performance Reports, and Facebook Ads.
