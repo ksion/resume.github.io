@@ -10,9 +10,7 @@
 ## Senior Application Developer | .NET & Cloud Solutions
 
 ### Education
-Bachelor of Science in Computer Science  
-Co-operative Education Designation  
-Georgia Institute of Technology, Atlanta, GA
+Bachelor of Science in Computer Science - Georgia Institute of Technology, Atlanta, GA
 
 ---
 
