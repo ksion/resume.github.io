@@ -35,8 +35,8 @@ multiple environments.
 - Collaborated with business analysts, QA, and non-technical stakeholders to ensure system compliance and business alignment.
 
 **PureCars Technologies LLC, Atlanta, GA**  
-Lead Sr. Software Engineer, Dev Team  
 <span style="float: right;">May 2015 – April 2024</span> 
+Lead Sr. Software Engineer, Dev Team  
 <span style="float: right;">April 2021 – April 2024</span>
 
 - Led a team of five engineers building distributed systems and APIs to transform raw dealership inventory and sales data into dynamic automotive ad creative across search, display, social, video, and connected TV channels for Tier II OEM advertising programs.
