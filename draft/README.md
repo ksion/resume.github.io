@@ -1,16 +1,23 @@
 # Keanna Sion 
-<img style="float:right;width:70px;padding:6px" src="gt-large.png" />
+<!--<img style="float:right;width:70px;padding:6px" src="gt-large.png" />
 
 <span style="float:right;padding:6px"> 
-  sion.keanna@gmail.com
-  <br> 
-  mobile: 678.462.2106
-  <br>
-  Smyrna, GA
-  <br>
+  sion.keanna@gmail.com<br> 
+  mobile: 678.462.2106<br>
+  Smyrna, GA<br>
 </span>
 
-## Senior Application Developer | .NET & Cloud Solutions
+## Senior Application Developer | .NET & Cloud Solutions-->
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
+  <h2 style="margin: 0; border-bottom: none;">Senior Application Developer | .NET & Cloud Solutions</h2>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <span style="text-align: right;">
+      📧 sion.keanna@gmail.com | 📞 678.462.2106 | 📍 Smyrna, GA
+    </span>
+    <img src="gt-large.png" style="width: 70px;" />
+  </div>
+</div>
 
 ### Profile 
 Senior Application Developer with 10+ years of experience building enterprise .NET applications, APIs, and cloud-based solutions. Skilled in C#, SQL, React, Azure, and Oracle C2M integrations. Adept at modernizing legacy systems, designing microservices, writing technical documentation, and providing production support. Recognized for cross-team collaboration, mentoring, and delivering reliable, scalable applications in utility and enterprise environments.
@@ -112,7 +119,7 @@ multiple environments.
 - Containerizing frontend, API, and database services with Docker to ensure environment consistency and reproducible local development.
 
 **Github Resume**  
-- Implemented a multi-environment CI/CD pipeline using GitHub Actions and Jekyll, enabling isolated staging deployments via branch-based workflows wihtout affecting production.
+- Implemented a multi-environment CI/CD pipeline using GitHub Actions and Jekyll, enabling isolated staging deployments via branch-based workflows without affecting production.
 - Authored and hosted this resume in Markdown via GitHub Pages at ksion.github.io/resume
 
 ---
