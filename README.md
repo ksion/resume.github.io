@@ -40,7 +40,7 @@ multiple environments.
 Lead Sr. Software Engineer, Dev Team -->
 
 <div style="display: flex; justify-content: space-between;">
-  <strong></strong>PureCars Technologies LLC, Atlanta, GA</strong>
+  <strong>PureCars Technologies LLC, Atlanta, GA</strong>
   <em>May 2015 – April 2024</em>
 </div>
 <div style="display: flex; justify-content: space-between;">
@@ -78,6 +78,10 @@ Software Engineer, Co-op Student
 - Implementing dynamic, multi-criteria search endpoints to enable theme- and color-based discovery across supply types.
 - Applying RESTful API design principles and structured DTO patterns to separate domain models from transport contracts.
 - Containerizing frontend, API, and database services with Docker to ensure environment consistency and reproducible local development.
+
+**Github Resume**  
+- Implemented a multi-environment CI/CD pipeline using GitHub Actions and Jekyll, enabling isolated staging deployments via branch-based workflows wihtout affecting production.
+- Authored and hosted this resume in Markdown via GitHub Pages at ksion.github.io/resume
 
 ---
 
