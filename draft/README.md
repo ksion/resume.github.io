@@ -35,9 +35,18 @@ multiple environments.
 - Provided on-call production support, troubleshooting critical incidents and implementing root cause fixes to improve system reliability.
 - Collaborated with business analysts, QA, and non-technical stakeholders to ensure system compliance and business alignment.
 
-**PureCars Technologies LLC, Atlanta, GA**  
-<span style="float: right;">*May 2015 – April 2024*<br>April 2021 – April 2024</span> 
-Lead Sr. Software Engineer, Dev Team 
+<!-- **PureCars Technologies LLC, Atlanta, GA**  
+*May 2015 – April 2024*<br>April 2021 – April 2024</span> 
+Lead Sr. Software Engineer, Dev Team -->
+
+<div style="display: flex; justify-content: space-between;">
+  <strong></strong>PureCars Technologies LLC, Atlanta, GA</strong>
+  <em>May 2015 – April 2024</em>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span>Lead Software Engineer, Dev Team</span>
+  <span>April 2021 – April 2024</span>
+</div>
 
 - Led a team of five engineers building distributed systems and APIs to transform raw dealership inventory and sales data into dynamic automotive ad creative across search, display, social, video, and connected TV channels for Tier II OEM advertising programs.
 - Designed and implemented scalable microservices in .NET Core on Azure Kubernetes Service, integrating with Cosmos DB, Service Bus, and Event Hub to support high-throughput, event-driven workflows.
