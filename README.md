@@ -9,7 +9,7 @@
 
 ## Senior Application Developer | .NET & Cloud Solutions-->
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em; border-bottom: 1px solid #eaecef">
   <div>
     <h2 style="margin: 0; border-bottom: none;">Senior Application Developer | .NET & Cloud Solutions</h2>
     <span style="text-align: right;">📧 sion.keanna@gmail.com | 📞 678.462.2106 | 📍 Smyrna, GA</span>
