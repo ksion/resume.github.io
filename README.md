@@ -116,7 +116,7 @@ multiple environments.
 - Applying RESTful API design principles and structured DTO patterns to separate domain models from transport contracts.
 - Containerizing frontend, API, and database services with Docker to ensure environment consistency and reproducible local development.
 
-**Github Resume**  
+**GitHub Resume**  
 - Implemented a multi-environment CI/CD pipeline using GitHub Actions and Jekyll, enabling isolated staging deployments via branch-based workflows without affecting production.
 - Authored and hosted this resume in Markdown via GitHub Pages at ksion.github.io/resume
 
