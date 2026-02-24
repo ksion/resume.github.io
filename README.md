@@ -37,7 +37,7 @@ Georgia Institute of Technology, Atlanta, GA
     <strong>June 2024 – March 2025</strong>
   </div>
   <div style="display: flex; justify-content: space-between;">
-    Senior Full-Stack Developer (Contract)
+    <strong><em>Senior Full-Stack Developer (Contract)</em></strong>
     <br>
   </div>
 </div>
@@ -59,7 +59,7 @@ multiple environments.
     <strong>May 2015 – April 2024</strong>
   </div>
   <div style="display: flex; justify-content: space-between;">
-    Lead Software Engineer, Dev Team
+    <strong><em>Lead Software Engineer, Dev Team</em></strong>
     <br>
     <em>April 2021 – April 2024</em>
   </div>
@@ -74,7 +74,7 @@ multiple environments.
 
 <div style="margin: 0 0 1em 0;">
   <div style="display: flex; justify-content: space-between;">
-    Software Engineer
+    <strong><em>Software Engineer</em></strong>
     <br>
     <em>May 2015 – April 2021</em>
   </div>
@@ -93,7 +93,7 @@ multiple environments.
     <strong>January 2013 – May 2015</strong>
   </div>
   <div style="display: flex; justify-content: space-between;">
-    Software Engineer, Co-op Student
+    <strong><em>Software Engineer, Co-op Student</em></strong>
     <br>
   </div>
 </div>
