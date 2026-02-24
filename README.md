@@ -2,6 +2,7 @@
 <img style="float:right;width:70px;padding:6px" src="gt-large.png" />
 
 
+
 <span style="float:right;padding:6px"> 
   sion.keanna@gmail.com <br> mobile: 678.462.2106 <br>
   Smyrna, GA <br>
@@ -39,13 +40,17 @@ multiple environments.
 *May 2015 – April 2024*<br>April 2021 – April 2024</span> 
 Lead Sr. Software Engineer, Dev Team -->
 
-<div style="display: flex; justify-content: space-between;">
-  <strong>PureCars Technologies LLC, Atlanta, GA</strong>
-  <em>May 2015 – April 2024</em>
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <span>Lead Software Engineer, Dev Team</span>
-  <span>April 2021 – April 2024</span>
+<div style="margin: 0 0 1em 0;">
+  <div style="display: flex; justify-content: space-between;">
+    <strong>PureCars Technologies LLC, Atlanta, GA</strong>
+    <br>
+    <strong>May 2015 – April 2024</strong>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    Lead Software Engineer, Dev Team
+    <br>
+    <em>April 2021 – April 2024</em>
+  </div>
 </div>
 
 - Led a team of five engineers building distributed systems and APIs to transform raw dealership inventory and sales data into dynamic automotive ad creative across search, display, social, video, and connected TV channels for Tier II OEM advertising programs.
