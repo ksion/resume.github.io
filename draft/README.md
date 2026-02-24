@@ -1,11 +1,13 @@
 # Keanna Sion 
 <img style="float:right;width:70px;padding:6px" src="gt-large.png" />
 
-
-
 <span style="float:right;padding:6px"> 
-  sion.keanna@gmail.com <br> mobile: 678.462.2106 <br>
-  Smyrna, GA <br>
+  sion.keanna@gmail.com
+  <br> 
+  mobile: 678.462.2106
+  <br>
+  Smyrna, GA
+  <br>
 </span>
 
 ## Senior Application Developer | .NET & Cloud Solutions
@@ -23,9 +25,18 @@ Georgia Institute of Technology, Atlanta, GA
 
 ### Work Experience
 
-**Southern Company, Atlanta, GA**  
-Senior Full-Stack Developer (Contract)  
-*June 2024 – March 2025*  
+<div style="margin: 0 0 1em 0;">
+  <div style="display: flex; justify-content: space-between;">
+    <strong>Southern Company, Atlanta, GA</strong>
+    <br>
+    <strong>June 2024 – March 2025</strong>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    Senior Full-Stack Developer (Contract)
+    <br>
+  </div>
+</div>
+
 - Modernized customer-facing systems by decomposing a legacy monolith into domain-aligned .NET Core services, implementing CQRS patterns and supporting asynchronous, event-driven workflows.
 - Designed and deployed a secure PIN verification service integrated with Oracle C2M, utilizing a server-side cache of verification attempts to enforce rate limiting and account lockout policies.
 - Managed large-scale messaging platforms (SMS/email) reaching millions of utility customers; wrote Oracle SQL scripts to query, transform, and ensure data reliability. Ensured deliverability, compliance with regulations, and system reliability.
@@ -35,10 +46,6 @@ multiple environments.
 - Authored technical documentation (API specs, sequence diagrams) to support maintainability and cross-team understanding.
 - Provided on-call production support, troubleshooting critical incidents and implementing root cause fixes to improve system reliability.
 - Collaborated with business analysts, QA, and non-technical stakeholders to ensure system compliance and business alignment.
-
-<!-- **PureCars Technologies LLC, Atlanta, GA**  
-*May 2015 – April 2024*<br>April 2021 – April 2024</span> 
-Lead Sr. Software Engineer, Dev Team -->
 
 <div style="margin: 0 0 1em 0;">
   <div style="display: flex; justify-content: space-between;">
@@ -55,17 +62,37 @@ Lead Sr. Software Engineer, Dev Team -->
 
 - Led a team of five engineers building distributed systems and APIs to transform raw dealership inventory and sales data into dynamic automotive ad creative across search, display, social, video, and connected TV channels for Tier II OEM advertising programs.
 - Designed and implemented scalable microservices in .NET Core on Azure Kubernetes Service, integrating with Cosmos DB, Service Bus, and Event Hub to support high-throughput, event-driven workflows.
-- Built distributed worker processes and APIs supporting lead generation, validation, and submission flows across customer-facing applications including Trade Report, Performance Reports, and Facebook Ads.
-- Engineered a data-driven forms engine enabling dynamic front-end rendering via backend configuration, reducing new partner onboarding from a full sprint of frontend and backend effort to a half-day, backend-only implementation.
 - Engineered automated reporting pipelines using in-memory DataFrame processing to reconcile warehouse data through complex joins and aggregations, producing OEM compliance reports delivered via scheduled FTP.
-- Built and maintained automated ad-generation infrastructure trafficking creative assets directly to Google Ads, Bing Ads, and Facebook.
-- Engineered budgeting and pacing logic across multiple ad platforms, leveraging hierarchical data structures to optimize spend allocation and campaign performance.
+- Delivered resilient third-party API integrations, ensuring compliance with evolving data and creative delivery requirements.
 - Served as Scrum Master, facilitating agile ceremonies, mentoring junior developers, and producing actionable engineering documentation.
 - Owned production stability, triaging and resolving bugs across high-visibility, revenue-impacting systems.
 
-**CareerBuilder, Norcross, GA**  
-Software Engineer, Co-op Student  
-*January 2013 – May 2015, (4 semesters)*  
+<div style="margin: 0 0 1em 0;">
+  <div style="display: flex; justify-content: space-between;">
+    Software Engineer
+    <br>
+    <em>May 2015 – April 2021</em>
+  </div>
+</div>
+
+- Built distributed worker processes and APIs supporting lead generation, validation, and submission flows across customer-facing applications including Trade Report, Performance Reports, and Facebook Ads.
+- Engineered a data-driven forms engine enabling dynamic front-end rendering via backend configuration, reducing new partner onboarding from a full sprint of frontend and backend effort to a half-day, backend-only implementation.
+- Built and maintained automated ad-generation infrastructure that transformed dealership inventory and sales data into creative assets trafficked directly to Google Ads, Bing Ads, and Facebook.
+- Engineered budgeting and pacing logic across multiple ad platforms, leveraging hierarchical data structures to optimize spend allocation and campaign performance.
+- Collaborated with external partner teams at Google, Bing, and Facebook to ensure API compliance, resolve integration issues, and maintain platform stability.
+
+<div style="margin: 0 0 1em 0;">
+  <div style="display: flex; justify-content: space-between;">
+    <strong>CareerBuilder, Norcross, GA</strong>
+    <br>
+    <strong>January 2013 – May 2015</strong>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    Software Engineer, Co-op Student
+    <br>
+  </div>
+</div>
+
 - Contributed as a full-stack engineer on a high-traffic job seeker platform supporting desktop and mobile experiences using ASP.NET (.NET Framework), C#, and vanilla JavaScript.
 - Supported a modernization initiative transitioning legacy VB.NET Web Forms components to C#-based ASP.NET services.
 - Implemented responsive UI components using the Foundation grid system to ensure consistent usability across screen sizes and devices.
