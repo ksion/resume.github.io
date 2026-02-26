@@ -123,16 +123,16 @@ multiple environments.
 ---
 
 ### Core Skills
-Languages & Backend: C#, .NET (Framework 4.8; .NET 6-8), ASP.NET Core, RESTful APIs, Entity Framework (EF Core), LINQ  
-Frontend: React, HTML, CSS, Javascript, jQuery  
-Databases & Stores: SQL Server, Oracle, Cosmos DB, Azure Blob/Table Storage, SQLite, Snowflake (Data Warehouse), Infor Birst  
-Security & Auth: OAuth 2.0, API authentication, token expiration, rate limiting, secure API design  
-Testing: TDD, xUnit, NUnit, Moq, FakeItEasy, unit/integration testing, desk-checking  
-API Tooling: Postman, Swagger / OpenAPI  
-Cloud & DevOps: Azure (App Service, Worker Services / VM-hosted background workers, AKS, Service Bus, Event Hubs), AWS (basic), Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD  
-Architecture & Integration: Microservices, CQRS, event-driven architecture, DDD, vertical slice, layered (n-tier), clean code, functional programming  
-Observability: Application Insights, Prometheus, Grafana, Loggly, Lens (OpenLens)  
-Delivery & Leadership: Agile/Scrum, Scrum Master (Certified 2022), team lead, mentorship, technical documentation, roadmapping, incident response  
+**Languages & Backend:** C#, .NET (Framework 4.8; .NET 6-8), ASP.NET Core, RESTful APIs, Entity Framework (EF Core), LINQ  
+**Frontend:** React, HTML, CSS, Javascript, jQuery  
+**Databases & Stores:** SQL Server, Oracle, Cosmos DB, Azure Blob/Table Storage, SQLite, Snowflake (Data Warehouse), Infor Birst  
+**Security & Auth:** OAuth 2.0, API authentication, token expiration, rate limiting, secure API design  
+**Testing:** TDD, xUnit, NUnit, Moq, FakeItEasy, unit/integration testing, desk-checking  
+**API Tooling:** Postman, Swagger / OpenAPI  
+**Cloud & DevOps:** Azure (App Service, Worker Services / VM-hosted background workers, AKS, Service Bus, Event Hubs), AWS (basic), Docker, Kubernetes, Azure DevOps, GitHub Actions, CI/CD  
+**Architecture & Integration:** Microservices, CQRS, event-driven architecture, DDD, vertical slice, layered (n-tier), clean code, functional programming  
+**Observability:** Application Insights, Prometheus, Grafana, Loggly, Lens (OpenLens), Windows Event Log & flat-file log analysis (legacy COM/enterprise environments)  
+**Delivery & Leadership:** Agile/Scrum, Scrum Master (Certified 2022), team lead, mentorship, technical documentation, roadmapping, incident response  
 
 ---
 
